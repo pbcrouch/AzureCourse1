@@ -12,3 +12,4 @@ The connect button
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
+Ma href="https://meyerweb.com/eric/tools/dencoder/">URL Encoder</a>
